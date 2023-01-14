@@ -57,7 +57,9 @@ runPluginVerifier {
         ideaVerifier_2020_1_1,
         ideaVerifier_2021_1_1,
         ideaVerifier_2021_3_2,
+        ideaVerifier_2022_3_2
     ]
+    // download intellij-plugin-verifier plugin (https://github.com/JetBrains/intellij-plugin-verifier#installation) to pluginVerifierBin folder
     verifierPath = "pluginVerifierBin/verifier-all.jar"
 }
 
